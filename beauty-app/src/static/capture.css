@@ -1,0 +1,25 @@
+#outer-capture-div {
+    height: 100vh;
+}
+
+#camera-area {
+    width: 100px;
+    height: 135px;
+    margin-left: 110px;
+    border: 1px solid black;
+    border-radius: 40%;
+}
+
+#bg-image {
+    width: 357px;
+    height: 432px;
+    background-color: aqua;
+    margin: 3% auto 0px auto;
+    padding-top: 40px;
+    background-image: url("./malvika.png");
+    background-repeat: no-repeat;
+}
+
+video {
+    vertical-align: top;
+}
