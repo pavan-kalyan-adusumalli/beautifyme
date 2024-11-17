@@ -4,7 +4,7 @@ export default class Navbar extends Component {
   render() {
     return (
         <>
-            <nav class="navbar navbar-expand-lg navbar-light" style={{backgroundColor: "#d000ff3b", backgroundImage: "url(./whitedots.jpg)"}}>
+            <nav class="navbar navbar-expand-lg navbar-light" style={{backgroundColor: "rgba(208, 0, 225, 0.43)", backgroundImage: `url("whitedots.jpg")`}}>
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">Beautify Me</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
